@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# CrystalAtlas user settings and generated output
+crystalatlas_settings.json
+Collated_Output/
+Crystal_Locations.csv
+CrystalAtlas_Report.csv
+*_CrystalAtlas.png
+
+# Temporary files
+*.tmp
+*.bak
+*.log
