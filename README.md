@@ -2,6 +2,10 @@
 
 CrystalAtlas is a configurable Windows desktop application for collating crystallisation drop images into annotated plate layouts and recording crystal positions.
 
+### Development Note
+
+*CrystalAtlas was conceived, designed, and directed by **Jordon James**. OpenAI's ChatGPT was used as a software development assistant to help generate code, troubleshoot issues, refine features, and improve documentation throughout development. All design decisions, feature selection, testing, validation, and final approval of the software were carried out by the project author. The author accepts full responsibility for the functionality and content of this project.*
+
 ## Features
 
 - 24-well, 48-well, 96-well and 384-well plate presets
